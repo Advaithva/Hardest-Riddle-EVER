@@ -1,4 +1,4 @@
-function RICKROLL() {
+function PASS() {
 
 alert("Never gonna give you up")
 alert("Never gonna let you down")
